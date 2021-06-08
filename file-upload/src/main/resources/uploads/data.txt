@@ -1,0 +1,4 @@
+101;sundeep;Chaurasiya;27;sundeep@gmail.com
+102;munna;Chaurasiya;25;munna@gmail.com
+103;anand;Chaurasiya;30;anand@gmail.com
+104;kakhi;Chaurasiya;35;kakhi@gmail.com

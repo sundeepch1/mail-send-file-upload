@@ -1,0 +1,20 @@
+https://docs.google.com/document/d/10HpPpTYIplIaRGwPt_B4j1Wf0oEmKS7AXV9gRJhMeJw/edit?ts=606ec3ed
+
+Q)what is difference between observable and promise?
+
+
+{
+    "firstName":"Hariom",
+    "surName":"Chaurasiya",
+    "emailAccount":"sundeep.chaurasiya@gmail.com",
+    "phoneNumber":"9643596766",
+    "dateOfBirth":"1990-09-03",
+    "joiningDate":"2021-04-01",
+    "pinCode":110096,
+    "lastCompanyPackage":3.30,
+    "lastCompanyName":"Global Logic",
+    "currentCompanyPackage":5.50,
+    "currentCompanyName":"Genepact",
+    "relevantExperience":2.4,
+    "totalExperience":2.4
+}

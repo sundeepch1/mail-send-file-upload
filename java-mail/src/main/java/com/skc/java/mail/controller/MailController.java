@@ -24,7 +24,7 @@ public class MailController {
     public String mail1(){
 
         SimpleMailMessage msg = new SimpleMailMessage();
-        msg.setTo("sundeep.chaurasiya@gmail.com");
+        msg.setTo("******.******@gmail.com");
         //msg.setCc("a@a.com")
         //msg.setBcc("a@a.com")
         msg.setSubject("Testing from spring boot");
@@ -39,7 +39,7 @@ public class MailController {
 
         MimeMessage msg = javaMailSender.createMimeMessage();
         MimeMessageHelper helper = new MimeMessageHelper(msg);
-        helper.setTo("sundeep.chaurasiya@gmail.com");
+        helper.setTo("******.******@gmail.com");
         //msg.setCc("a@a.com")
         //msg.setBcc("a@a.com")
         helper.setSubject("Testing from spring boot");
@@ -55,7 +55,7 @@ public class MailController {
 
         MimeMessage msg = javaMailSender.createMimeMessage();
         MimeMessageHelper helper = new MimeMessageHelper(msg, true);
-        helper.setTo("sundeep.chaurasiya@gmail.com");
+        helper.setTo("******.******@gmail.com");
         helper.setSubject("Testing from spring boot");
         helper.setText("<h1>Hello World Spring Boot Email</h1>", true);
         //default = text/html if we supply the true
@@ -69,7 +69,7 @@ public class MailController {
 
         MimeMessage msg = javaMailSender.createMimeMessage();
         MimeMessageHelper helper = new MimeMessageHelper(msg, true);
-        helper.setTo("sundeep.chaurasiya@gmail.com");
+        helper.setTo("******.******@gmail.com");
         helper.setSubject("Testing from spring boot");
         helper.setText("<h1>Hello World Spring Boot Email</h1>", true);
         //default = text/html if we supply the true
@@ -85,7 +85,7 @@ public class MailController {
 
         MimeMessage msg = javaMailSender.createMimeMessage();
         MimeMessageHelper helper = new MimeMessageHelper(msg, true);
-        helper.setTo("sundeep.chaurasiya@gmail.com");
+        helper.setTo("******.******@gmail.com");
         helper.setSubject("Hello Mail");
         helper.setText("<h1>Hello</h1>", true);
         //default = text/html if we supply the true
